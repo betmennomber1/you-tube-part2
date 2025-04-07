@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    /* background: #ccc; */
+    background-color: white;
+}
+
+.header {
+    background: #fff;;
+    height: 56px;
+}
+
+.height {
+    height: 56px;
+}
+.micro {
+    background: #ccc;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.col-12{
+    height: 45rem;
+    /* background-color: greenyellow; */
+}
+.col-11{
+    height: 31rem;
+    /* background-color: skyblue; */
+    margin-right: auto;
+    margin-left: auto;
+}
+.col-9{
+    height: 38rem;
+    /* background-color: green; */
+    background-color: whitesmoke;
+}
+.col-3{
+    height: 21rem;
+    /* background-color: whitesmoke; */
+}
+.col-12-sm{
+    width: 80rem;
+    height: 5rem;
+    /* background-color: red; */
+}
+.col-6-lg{
+    height: 7rem;
+    /* background-color: darkblue; */
+    background-color: whitesmoke;
+}
+.col-6-sm{
+    height: 7rem;
+    /* background-color: darkorchid; */
+    background-color: whitesmoke;
+}
+.col-10{
+    height: 4rem;
+    /* background-color: gainsboro; */
+}
+.col-2-lg{
+    height: 4rem;
+    width: 4rem;
+    /* background-color: pink; */
+}
+.col-5{
+    height: 4rem;
+    /* background-color: #fff; */
+}
+
